@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import template_1 from './assets/images/template_1.png';
+import template_1 from '../assets/images/template_1.png';
 
 class Canvas extends Component {
 
